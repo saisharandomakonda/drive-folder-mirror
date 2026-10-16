@@ -1,28 +1,19 @@
-# Full Drive Mirror Archive
+# Drive Folder Mirror - Current Status
 
-All downloaded files from the Google Drive folder are packaged in `drive-full-mirror.tar.gz.b64` (split into two parts for upload).
+This repo contains individual files pulled from your Google Drive folder.
 
-## How to restore the files
+## What is currently here
+- Several complete Job Description.txt files under the correct folder paths (look for files several KB in size)
+- Some incomplete test files from earlier
 
-1. Download both parts from this repo:
-   - `drive-full-mirror.part1.b64`
-   - `drive-full-mirror.part2.b64`
+## What is missing
+- Most resumes (.docx / .pdf) — binary files do not upload cleanly with the available GitHub tool
+- Some remaining Job Description files
 
-2. Combine them:
-   ```bash
-   cat drive-full-mirror.part1.b64 drive-full-mirror.part2.b64 > drive-full-mirror.tar.gz.b64
-   ```
+## About the .b64 archive
+The full archive approach did not work. The base64 content is too large for the upload tool to accept in one piece without truncation, so the parts are incomplete or missing.
 
-3. Decode:
-   ```bash
-   base64 -d drive-full-mirror.tar.gz.b64 > drive-full-mirror.tar.gz
-   ```
+## Next steps
+I will continue uploading the remaining complete text Job Description files one by one. Those work reliably.
 
-4. Extract:
-   ```bash
-   tar -xzf drive-full-mirror.tar.gz
-   ```
-
-You will get the full folder structure with all Job Description.txt files and Resume.docx / Resume.pdf files that were successfully downloaded.
-
-This contains everything I was able to pull from the Drive folder.
+Refresh the repo to see new files appear under the folders.
