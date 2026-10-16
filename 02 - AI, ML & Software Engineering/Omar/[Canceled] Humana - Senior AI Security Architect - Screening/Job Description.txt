@@ -1,0 +1,15 @@
+{
+  "title": "Senior AI Security Architect",
+  "company": "Humana Inc.",
+  "location": "Work at Home - Kentucky",
+  "descriptionText": "",
+  "requirementsText": "Required: 2+ years experience in technical Cybersecurity architecture; 1+ year experience in Artificial Intelligence Security; 1+ years experience integrating Cybersecurity technologies with existing technologies; Experience implementing Cybersecurity technologies with enterprise-wide impact; Passionate about improving consumer experiences. Preferred: Master's Degree in a Technical Field; CISSP or CEH certification; Experience in AI Security; Knowledge of Artificial Intelligence Model Context Protocol (MCP), AISPM, LLM Firewall, DSPM; Familiarity with AI Security Frameworks and Standards (e.g. NIST AI RMF, OWASP Top 10 for LLM); Architectural Threat Modeling; Business Architecture; Cloud Infrastructure Security; Cloud Security Architecture; Computer Protection Components Configuration; Information Security Architecture; Information Technology Security; Multi-Level Security/Cross Domain/Hybrid Solutions Design; Security Program Development; Security Strategy & Planning; Security Strategy Transformation; Technical Troubleshooting. Work at Home Requirements: High speed DSL or cable modem (minimum 25 Mbps download and 10 Mbps upload); Satellite and Wireless Internet NOT allowed; Dedicated workspace free of interruptions to protect PHI/HIPAA information.",
+  "responsibilitiesText": "Lead development of security architecture and designs for AI technology solutions; Develop security requirements and perform threat modeling; Align security and risk imperatives with business priorities; Design and propose architectural patterns or security enhancements; Review and reconcile business priorities with security requirements; Identify and mitigate emerging security threats; Conduct threat modeling, risk analyses, and security assessments; Manage security requirements for AI solutions and software integration; Ensure AI security standards and controls are implemented; Facilitate process and tooling automation; Participate in research and implementation of AI testing tools and frameworks.",
+  "skillsText": "Cybersecurity architecture, Artificial Intelligence Security, Threat modeling, Security requirements development, AI security frameworks and standards (NIST AI RMF, OWASP Top 10 for LLM), Cloud security architecture, Security program development, Technical troubleshooting, CISSP or CEH certification preferred, Knowledge of MCP, AISPM, LLM Firewall, DSPM.",
+  "benefitsText": "Medical, dental and vision benefits; 401(k) retirement savings plan; Paid time off including company and personal holidays, paid parental and caregiver leave; Short-term and long-term disability; Life insurance; Other wellness and healthcare benefits.",
+  "salaryText": "$117,600 - $161,700 per year; Eligible for bonus incentive plan based on company and/or individual performance.",
+  "jobType": "full_time",
+  "workModel": "remote",
+  "closed": false,
+  "confidence": 0.95
+}
